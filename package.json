@@ -1,0 +1,17 @@
+{
+  "name": "zoomable",
+  "version": "0.1.0",
+  "description": "Simple zoom library",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "zoom"
+  ],
+  "author": "yaodingyd",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.9.7"
+  }
+}
