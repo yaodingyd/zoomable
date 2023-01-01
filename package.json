@@ -12,6 +12,6 @@
   "author": "yaodingyd",
   "license": "MIT",
   "devDependencies": {
-    "parcel": "^1.9.7"
+    "parcel": "^2.8.2"
   }
 }
